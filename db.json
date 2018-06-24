@@ -75,6 +75,59 @@
       ]
     }
   },
+  "getDeptCategories" : [
+    {
+      "id": "0",
+      "mapping": [
+        {
+          "categoryId": 1,
+          "categoryName": "Category1"
+        },
+        {
+          "categoryId": 2,
+          "categoryName": "Category2"
+        },
+        {
+          "categoryId": 3,
+          "categoryName": "Category3"
+        }
+      ]
+    },
+    {
+      "id": "1",
+      "mapping": [
+        {
+          "categoryId": 4,
+          "categoryName": "Category4"
+        },
+        {
+          "categoryId": 5,
+          "categoryName": "Category5"
+        },
+        {
+          "categoryId": 6,
+          "categoryName": "Category6"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "mapping": [
+        {
+          "categoryId": 7,
+          "categoryName": "Category7"
+        },
+        {
+          "categoryId": 8,
+          "categoryName": "Category8"
+        },
+        {
+          "categoryId": 9,
+          "categoryName": "Category9"
+        }
+      ]
+    },
+  },
   "posts": [
     { "id": 1, "title": "Post 1" },
     { "id": 2, "title": "Post 2" },
