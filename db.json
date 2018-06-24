@@ -1,4 +1,65 @@
 {
+  "getSBUDepartments": {
+  {
+    "specialBusinessUnits": [
+      {
+        "id": 0,
+        "businessUnitName": "SBU1"
+      },
+      {
+        "id": 1,
+        "businessUnitName": "SBU2"
+      },
+      {
+        "id": 2,
+        "businessUnitName": "SBU3"
+      }
+    ],
+    "departmentsByBusinessUnit": {
+      "0": [
+        {
+          "departmentId": 1,
+          "departmentName": "Dept1"
+        },
+        {
+          "departmentId": 2,
+          "departmentName": "Dept2"
+        },
+        {
+          "departmentId": 3,
+          "departmentName": "Dept3"
+        }
+      ],
+      "1": [
+        {
+          "departmentId": 4,
+          "departmentName": "Dept4"
+        },
+        {
+          "departmentId": 5,
+          "departmentName": "Dept5"
+        },
+        {
+          "departmentId": 6,
+          "departmentName": "Dept6"
+        }
+      ],
+      "2": [
+        {
+          "departmentId": 7,
+          "departmentName": "Dept7"
+        },
+        {
+          "departmentId": 8,
+          "departmentName": "Dept8"
+        },
+        {
+          "departmentId": 9,
+          "departmentName": "Dept9"
+        }
+      ]
+    }
+  },
   "posts": [
     { "id": 1, "title": "Post 1" },
     { "id": 2, "title": "Post 2" },
