@@ -81,7 +81,7 @@
       "relayType": "Annual Modular", 
       "dept": "D92  | 3 C", 
       "tasks": "10/69", 
-      "status": "Approved",
+      "status": "Approved"
     }
   ],
   "getDeptCategories": [
