@@ -80,19 +80,19 @@
       "relayName": "My Modular Request 1", 
       "relayType": "Annual Modular", 
       "relayId": "1",
-      "status": "Approved"
+      "status": "APPROVED"
     },
     {
       "relayName": "My Modular Request 1", 
       "relayType": "Annual Modular", 
       "relayId": "2",
-      "status": "Approved"
+      "status": "APPROVED"
     },
     {
       "relayName": "My Modular Request 1", 
       "relayType": "Annual Modular", 
       "relayId": "3",
-      "status": "Approved"
+      "status": "APPROVED"
     }
   ],
   "getCount": {
