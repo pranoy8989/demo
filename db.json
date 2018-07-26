@@ -88,7 +88,7 @@
     "rejected": 4,
     "approved": 2,
     "pendingApproval": 6,
-    "drafts": 4,
+    "drafts": 4
   },
   "getDeptCategories": [
     {
