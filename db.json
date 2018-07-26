@@ -79,7 +79,19 @@
     {
       "relayName": "My Modular Request 1", 
       "relayType": "Annual Modular", 
-      "tasks": "10/69", 
+      "relayId": "1",
+      "status": "Approved"
+    },
+    {
+      "relayName": "My Modular Request 1", 
+      "relayType": "Annual Modular", 
+      "relayId": "2",
+      "status": "Approved"
+    },
+    {
+      "relayName": "My Modular Request 1", 
+      "relayType": "Annual Modular", 
+      "relayId": "3",
       "status": "Approved"
     }
   ],
