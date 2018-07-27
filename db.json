@@ -182,7 +182,7 @@
     }
   ],
   "getCount": {
-    "all": 180,
+    "all": 90,
     "rejected": 4,
     "approved": 2,
     "pendingApproval": 6,
