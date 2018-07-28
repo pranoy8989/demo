@@ -152,9 +152,9 @@
     }
   ],
   "getCount": {
-    "REJECTED": 4,
-    "APPROVED": 2,
-    "PENDING_APPROVAL": 6,
-    "DRAFT": 4
+    "REJECTED": 1,
+    "APPROVED": 3,
+    "PENDING_APPROVAL": 2,
+    "DRAFT": 3
   }
 }
